@@ -21,6 +21,3 @@ The main goal of this project is to support a **multiplayer game running on a Lo
 
 This project is intended for **learning and local development purposes only**.
 It does not implement production-level security and should not be used for public or internet-facing applications.
-
-This project is intended for **learning and local development purposes only**.
-It does not implement production-level security and should not be used for public or internet-facing applications.
